@@ -1,2 +1,9 @@
-# NNoiBrown.guthub.io
+# NoiBrown.github.io
 Create a new web.
+## This is a Heading 1
+jfljfalfj
+| Course Number | Course Name                    |
+|---------------|------------------------------- |
+| Course Number | Course Name                    |
+| CSC 2431      | Data Structure and Programming |
+| MAT 1234      | Calculus I                     |
