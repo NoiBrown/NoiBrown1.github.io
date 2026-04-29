@@ -1,7 +1,7 @@
 # NoiBrown.github.io
 Create a new web.
 ## This is a Heading 1
-jfljfalfj
+
 | Course Number | Course Name                    |
 |---------------|------------------------------- |
 | Course Number | Course Name                    |
