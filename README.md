@@ -10,3 +10,4 @@ This is a paragraph describing about this assignment. Student are required to cr
 | CSC 2431      | Data Structure                 |
 |               | and Programming                |
 | MAT 1234      | Calculus I                     |
+| CSC 3220      | Application  Programm          |
